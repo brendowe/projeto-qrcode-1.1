@@ -36,8 +36,8 @@ body {
 
   #qr {
     margin-top: -60px;
-    height: 60%;
-    width: 90%;
+    height: 45vh;
+    width: 80vw;
     background-image: url(images/image-qr-code.png);
     background-size: cover;
     background-repeat: no-repeat;
